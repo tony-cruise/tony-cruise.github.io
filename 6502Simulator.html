@@ -1,11 +1,23 @@
 <!doctype html>
-<html>
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <link href="assets/css/6502style.css" rel="stylesheet" type="text/css" />
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="./assets/css/6502style.css" rel="stylesheet" type="text/css" />
     <title>6502 Simulator</title>
   </head>
   <body>
-    <h1>6502 Assembler Simulator</h1>
+    <header>
+      <div class="container">
+        <h1>6502 Assembler Simulator</h1>
+        <p><input type="button" value="Back to Home" onclick="history.back()"></p>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+   
     <div class="widgetouter">
       <div class="widget">
         <div class="buttons">
@@ -46,7 +58,10 @@
         <!--<div class="notes" style="display: none">Notes:    </div>-->
       </div>
     </div>
-    <p><input type="button" value="Back to Home" onclick="history.back()"></p>
+    
+  </section>
+</div>
+
     <script src="js/es5-shim.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="js/assembler.js"></script>
