@@ -15,7 +15,7 @@ Back when the console was released, developing a game for the NES required speci
 
 The secrets of the official NES developers kit are hidden away in the Nintendo archives, but we can glean some details from the non-Nintendo produced development kits that were produced by 3rd party companies writing games back when the console was released.  Even back then some form of IBM PC like computer, expensive mini-computer terminals, or another computer with a 6502 processor like the Apple II was required, along with a hardware board that interfaced the computer directly with a NES (or Famicom) console.
 
-<img alt="Legacy Game Development" src="/assets/images/LegacyGameDevelopment.png" style="width:400px" />
+<img alt="Legacy Game Development" src="/assets/images/LegacyGameDevelopment.png" style="width:800px" />
 
 The attraction of developing a new game for a retro system such as the NES is due to its simplicity it also means most if not all the game components (such as graphics, sound, and game code) can be created by either a single author or a small team, rather than the massive teams required to make today’s modern games.
 
