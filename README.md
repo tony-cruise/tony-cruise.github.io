@@ -19,7 +19,7 @@ Run the [6502 Simulator](/6502Simulator.html).
 This book is all about the authors love of gaming and the want to share with fellow enthusiasts, the understanding of the steps and process that go into creating games.
 Perhaps the first of many volumes, this book aims to provide an overall guide on the steps required to start creating games for the ColecoVision 8-bit game console and its bigger cousin, the ColecoVision Adam Computer.
 
-![Programming Games for the Coleco](/assets/images/ProgrammingGamesForTheColeco.jpg)
+<img src="/assets/images/ProgrammingGamesForTheColeco.jpg" alt="Programming Games for The Coleco" style="width:300px" />
 
 It will take you through each concept step-by-step, and rather than just being a technical guide, it will work through each stage with sample code and examples.
 The code presented, will focus on writing games using Z80 assembler, just like the developers of the original ColecoVision games used back in the day.
