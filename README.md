@@ -4,7 +4,7 @@ This is the public support site for the various books and tools that I have publ
 # Programming Games for the NES
 This is my latest book where I go through the tools and steps need to start writing games for the Nintendo Entertainment System (NES) in 6502 Assembler.
 
-[More details about the book](/ProgrammingForTheNES.md)
+[More details about the book](/ProgrammingForTheNES)
 
 The Github repository for the book is:
 [ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)

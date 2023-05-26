@@ -1,3 +1,7 @@
+layout: page
+title: "Programming Games for the NES"
+permalink: /ProgrammingGamesForTheNES
+
 # Programming Games for the NES
 Starting from the late 70s with the release of the groundbreaking game “Space Invaders”, video games gained widespread popularity, and whole arcades were dedicated to just offering “Space Invaders” for patrons to enjoy.  Soon a host of other arcade games followed, bringing us classics such as Donkey Kong, Pac-man, Galaga, and many, many more.
 
