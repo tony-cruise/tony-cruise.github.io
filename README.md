@@ -4,6 +4,8 @@ This is the public support site for the various books and tools that I have publ
 # Classic Games Programming for the NES
 This is my latest book where I go through the tools and steps need to start writing games for the Nintendo Entertainment System (NES) in 6502 Assembler.
 
+<img alt="Classic Games Programming for the NES" src="/assets/images/Cruise-HI.png" style="width:200px" />
+
 [More details about the book](/ProgammingForTheNES.md)
 
 The Github repository for the book is:
