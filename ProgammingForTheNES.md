@@ -26,10 +26,10 @@ The only blockage remaining for most people is working out how to get started.  
 The Github repository for the book is:
 [ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)
 
-The book is available for early access here:
-[Classic Games Programming For the NES](http://mng.bz/7vyx) Use the code mlcruise for 45% off (valid until 19th October 2023)
+The book is available for here:
+[Classic Games Programming For the NES](http://mng.bz/7vyx) Use the code au35cru for 35% off any Manning products in any format.
 
-<img alt="Classic Games Programming for the NES - Early Access" src="/assets/images/DOTD_NewMEAP_Cruise.png" style="width:200px" />
+<img alt="Classic Games Programming for the NES" src="/assets/images/DOTD_NewMEAP_Cruise.png" style="width:200px" />
 
 ## Learning 6502 Assembler
 To support readers learning 6502 Assembly Language I have put together an online 6502 Simulator/Assembler (based on the code of Stian Søreng's and Nick Morgan) so that readers can see 6502 commands in action before we get to the part where we setup the NES hardware and get something displaying on screen.
