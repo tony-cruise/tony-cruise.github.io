@@ -1,4 +1,4 @@
-# Classic Game Programming On The NES - Chapter Two - Getting setup
+# Classic Game Programming On The NES - Chapter 2 - Getting setup
 
 This chapter covers
 

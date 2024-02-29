@@ -32,8 +32,25 @@ The book is available for here:
 
 The book has sixteen chapters (and three appendixes), that take you through the process of developing a simple game for the NES.
 
-- [Chapter 1](/CGPNES-CH01.md)
-- [Chapter 2](/CGPNES-CH02.md)
+- [Chapter 1 - Let's program games](/CGPNES-CH01.md)
+- [Chapter 2 - Getting setup](/CGPNES-CH02.md)
+- [Chapter 3 - Starting 6502 assembler](/CGPNES-CH03.md)
+- [Chapter 4 - Math, loops, conditions and bits](/CGPNES-CH04.md)
+- [Chapter 5 - Starting somewhere](/CGPNES-CH05.md)
+- [Chapter 6 - Starting a game](/CGPNES-CH06.md)
+- [Chapter 7 - Move and shoot](/CGPNES-CH07.md)
+- [Chapter 8 - Enemy movement](/CGPNES-CH08.md)
+- [Chapter 9 - Collision detection](/CGPNES-CH09.md)
+- [Chapter 10 - Keeping score](/CGPNES-CH10.md)
+- [Chapter 11 - Player collisions and lives](/CGPNES-CH11.md)
+- [Chapter 12 - More enemies](/CGPNES-CH12.md)
+- [Chapter 13 - Animations and more](/CGPNES-CH13.md)
+- [Chapter 14 - Sound effects](/CGPNES-CH14.md)
+- [Chapter 15 - Music](/CGPNES-CH15.md)
+- [Chapter 16 - Where to from here?](/CGPNES-CH16.md)
+- [Appendix A - Installation and setup](/CGPNES-APPA.md)
+- [Appendix B - Memory mappers](/CGPNES-APPB.md)
+- [Appendix C - Memory and IO map](/CGPNES-APPC.md)
 
 ## Learning 6502 Assembler
 
