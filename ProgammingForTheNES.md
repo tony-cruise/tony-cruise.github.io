@@ -31,6 +31,10 @@ The book is available for here:
 
 <img alt="Classic Games Programming for the NES" src="/assets/images/DOTD_NewMEAP_Cruise.png" style="width:200px" />
 
+## Chapter List
+The book has sixteen chapters (and three appendixes), that take you through the process of developing a simple game for the NES.
+[Chapter 1](/CGPNES-CH01.md)
+
 ## Learning 6502 Assembler
 To support readers learning 6502 Assembly Language I have put together an online 6502 Simulator/Assembler (based on the code of Stian Søreng's and Nick Morgan) so that readers can see 6502 commands in action before we get to the part where we setup the NES hardware and get something displaying on screen.
 
