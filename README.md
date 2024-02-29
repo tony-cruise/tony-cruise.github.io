@@ -1,7 +1,9 @@
 # Introduction
+
 This is the public support site for the various books and tools that I have published, mostly to support the retro gaming community.
 
-# Classic Games Programming for the NES
+## Classic Games Programming for the NES
+
 This is my latest book where I go through the tools and steps need to start writing games for the Nintendo Entertainment System (NES) in 6502 Assembler.
 
 <img alt="Classic Games Programming for the NES" src="/assets/images/Cruise-HI.png" style="width:200px" />
@@ -11,12 +13,13 @@ This is my latest book where I go through the tools and steps need to start writ
 The Github repository for the book is:
 [ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)
 
-## Learning 6502 Assembler
+### Learning 6502 Assembler
+
 To support readers learning 6502 Assembly Language I have put together an online 6502 Simulator/Assembler (based on the code of Stian Søreng's and Nick Morgan) so that readers can see 6502 commands in action before we get to the part where we setup the NES hardware and get something displaying on screen.
 
 Run the [6502 Simulator](/6502Simulator.html).
 
-# Programming Games for the ColecoVision
+## Programming Games for the ColecoVision
 
 This book is all about the authors love of gaming and the want to share with fellow enthusiasts, the understanding of the steps and process that go into creating games.
 Perhaps the first of many volumes, this book aims to provide an overall guide on the steps required to start creating games for the ColecoVision 8-bit game console and its bigger cousin, the ColecoVision Adam Computer.
@@ -33,7 +36,8 @@ Most BIOS calls include an example of usage or a reference to the tutorial secti
 
 [Available on Amazon here](https://www.amazon.com/dp/B08B5WNV3K)
 
-# Links
+## Links
+
 You can find me on most social media platforms as follows:
 
 - [Facebook](https://www.facebook.com/ElectricAdventures)
