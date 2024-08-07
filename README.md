@@ -6,7 +6,7 @@ This is the public support site for the various books and tools that I have publ
 
 This is my latest book where I go through the tools and steps need to start writing games for the Nintendo Entertainment System (NES) in 6502 Assembler.
 
-<img alt="Classic Games Programming for the NES" src="/assets/images/Cruise-HI.png" style="width:200px" />
+<img alt="Classic Games Programming for the NES" src="/assets/images/Cruise-HI.png" style="width:200px" /> <img alt="Tony Cruise with a copy of the book" src="/assets/images/ClassicGameProgrammingOnTheNES.png" style="width:400px">
 
 [More details about the book](/ProgammingForTheNES.md)
 
