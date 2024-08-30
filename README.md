@@ -36,6 +36,10 @@ Most BIOS calls include an example of usage or a reference to the tutorial secti
 
 [Available on Amazon here](https://www.amazon.com/dp/B08B5WNV3K)
 
+The Github repository for the book is:
+[ProgrammingGamesForTheColeco](https://github.com/tony-cruise/ProgrammingGamesForTheColeco)
+
+
 ## Links
 
 You can find me on most social media platforms as follows:
