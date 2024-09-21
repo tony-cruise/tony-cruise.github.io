@@ -2,7 +2,7 @@
 
 Programming Games for the ColecoVision and Adam in Assembler is a comprehensive guide to developing your first retro game for the ColecoVision or Adam.
 
-<img alt="Programming Games for the Colecovision and Adam in Assembler front cover>" src="/assets/images/ProgrammingGamesForTheColecovisionV2.png" style="width:800px" />
+<img alt="Programming Games for the Colecovision and Adam in Assembler front cover>" src="/assets/images/ProgrammingGamesForTheColecovisionV2.png" style="width:200px" />
 
 Throughout, all concepts are illustrated with a simple space-based shoot-em-up that is based on the awesome Astrosmash game reminiscent of games from your childhood.
 
