@@ -24,7 +24,7 @@ Run the [6502 Simulator](/6502Simulator.html).
 This book is all about the authors love of gaming and the want to share with fellow enthusiasts, the understanding of the steps and process that go into creating games.
 Perhaps the first of many volumes, this book aims to provide an overall guide on the steps required to start creating games for the ColecoVision 8-bit game console and its bigger cousin, the ColecoVision Adam Computer.
 
-<img src="/assets/images/ProgrammingGamesForTheColeco.jpg" alt="Programming Games for The Coleco" style="width:200px" />
+<img src="/assets/images/ProgrammingGamesForTheColecovisionV2.jpg" alt="Programming Games for The Coleco" style="width:200px" />
 
 It will take you through each concept step-by-step, and rather than just being a technical guide, it will work through each stage with sample code and examples.
 The code presented, will focus on writing games using Z80 assembler, just like the developers of the original ColecoVision games used back in the day.
@@ -34,11 +34,12 @@ It is possible to use languages such as C or Pascal to make ColecoVision games, 
 In addition to the tutorial section, a full technical guide covering the BIOS built into both the ColecoVision and Adam, along with memory and port maps is included.
 Most BIOS calls include an example of usage or a reference to the tutorial section that covers it.
 
-[Available on Amazon here](https://www.amazon.com/dp/B08B5WNV3K)
+[More details about the book](/ProgammingGamesForTheColeco.md)
+
+[Available on Amazon here](https://www.amazon.com/dp/B08B5WNV3K) on Kindle, and print editions in Paperback or Hardback.
 
 The Github repository for the book is:
 [ProgrammingGamesForTheColeco](https://github.com/tony-cruise/ProgrammingGamesForTheColeco)
-
 
 ## Links
 
@@ -48,4 +49,3 @@ You can find me on most social media platforms as follows:
 - [Youtube](https://www.youtube.com/@electricadventures)
 - [Twitter](https://twitter.com/ElectricAdv)
 - [Instagram](https://www.instagram.com/electricadventures/)
-
