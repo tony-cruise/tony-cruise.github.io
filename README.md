@@ -41,6 +41,22 @@ Most BIOS calls include an example of usage or a reference to the tutorial secti
 The Github repository for the book is:
 [ProgrammingGamesForTheColeco](https://github.com/tony-cruise/ProgrammingGamesForTheColeco)
 
+## Spectravideo & MSX Complete User Guide
+
+The Spectravideo and MSX Complete User Guide is a compilation of information to assist the owners of Spectravideo 318/328 machines and their MSX cousins.
+
+<img alt="Spectravideo & MSX Complete User Guide front cover>" src="/assets/images/SviMSXCompleteUsersGuide-Cover.jpg" style="width:200px" />
+
+The Spectravideo and MSX machines are wonderful computers to learn to program. On them with very little effort you can make a TV screen come alive with fantastic colour pictures and make sound burst forth from the TV speakers.
+
+You can also play great games, learn how to program and let the computer teach you other subjects like maths and spelling.
+
+Once disk drives and perhaps a printer are added, they can be used for more serious purposes like storing information and word processing.
+
+[More details about the book](/SpectravideoMSXCompleteUserGuide.md)
+
+You can buy a copy of the book on [Amazon here](https://www.amazon.com/dp/B01LXCEFTN), in either Kindle or printed Paperback.
+
 ## Links
 
 You can find me on most social media platforms as follows:
