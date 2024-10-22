@@ -45,7 +45,7 @@ The Github repository for the book is:
 
 The Spectravideo and MSX Complete User Guide is a compilation of information to assist the owners of Spectravideo 318/328 machines and their MSX cousins.
 
-<img alt="Spectravideo & MSX Complete User Guide front cover>" src="/assets/images/SviMSXCompleteUsersGuide-Cover.jpg" style="width:200px" />
+<img alt="Spectravideo & MSX Complete User Guide front cover" src="/assets/images/SviMSXConpleteUsersGuide-Cover.jpg" style="width:200px" />
 
 The Spectravideo and MSX machines are wonderful computers to learn to program. On them with very little effort you can make a TV screen come alive with fantastic colour pictures and make sound burst forth from the TV speakers.
 
