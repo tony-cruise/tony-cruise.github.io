@@ -44,3 +44,7 @@ This book is divided into the following sections:
 ## Where to Buy
 
 You can buy a copy of the book on [Amazon here](https://www.amazon.com/dp/B01LXCEFTN), in either Kindle or printed Paperback.
+
+## Support Material
+
+You can access various support files for the book on my [GitHub archive folder](https://github.com/tony-cruise/ElectricAdventuresArchive/tree/main/MSX/Complete%20User%20Guide).
